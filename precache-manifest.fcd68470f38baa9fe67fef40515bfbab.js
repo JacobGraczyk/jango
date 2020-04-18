@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e0cc5b8367ebabf327bb8ac285a2659",
+    "revision": "80e22b7d321094f3aa3bd7c862148a44",
     "url": "/jango/index.html"
   },
   {
-    "revision": "5934aea490150948762c",
-    "url": "/jango/static/css/main.13e57c6c.chunk.css"
+    "revision": "e49588287f7656d78d09",
+    "url": "/jango/static/css/main.cb4d59c3.chunk.css"
   },
   {
     "revision": "21cb0a5ec2b51c91f3b2",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jango/static/js/2.0a5d8fa6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5934aea490150948762c",
+    "revision": "e49588287f7656d78d09",
     "url": "/jango/static/js/main.25b81537.chunk.js"
   },
   {
