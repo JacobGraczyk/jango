@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/jango/static/css/main.a691e3fb.chunk.css",
-    "main.js": "/jango/static/js/main.8c40523c.chunk.js",
-    "main.js.map": "/jango/static/js/main.8c40523c.chunk.js.map",
+    "main.css": "/jango/static/css/main.13e57c6c.chunk.css",
+    "main.js": "/jango/static/js/main.25b81537.chunk.js",
+    "main.js.map": "/jango/static/js/main.25b81537.chunk.js.map",
     "runtime-main.js": "/jango/static/js/runtime-main.867bfb72.js",
     "runtime-main.js.map": "/jango/static/js/runtime-main.867bfb72.js.map",
     "static/js/2.0a5d8fa6.chunk.js": "/jango/static/js/2.0a5d8fa6.chunk.js",
     "static/js/2.0a5d8fa6.chunk.js.map": "/jango/static/js/2.0a5d8fa6.chunk.js.map",
     "index.html": "/jango/index.html",
-    "precache-manifest.1b4113bdc7a3276e0ca5fc565bf0945b.js": "/jango/precache-manifest.1b4113bdc7a3276e0ca5fc565bf0945b.js",
+    "precache-manifest.ba8af239ba5d5f230299b231869c945e.js": "/jango/precache-manifest.ba8af239ba5d5f230299b231869c945e.js",
     "service-worker.js": "/jango/service-worker.js",
-    "static/css/main.a691e3fb.chunk.css.map": "/jango/static/css/main.a691e3fb.chunk.css.map",
+    "static/css/main.13e57c6c.chunk.css.map": "/jango/static/css/main.13e57c6c.chunk.css.map",
     "static/js/2.0a5d8fa6.chunk.js.LICENSE.txt": "/jango/static/js/2.0a5d8fa6.chunk.js.LICENSE.txt",
     "static/media/altLogo.svg": "/jango/static/media/altLogo.bc5b07b7.svg",
     "static/media/styles.css": "/jango/static/media/texture.5a228b1c.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.867bfb72.js",
     "static/js/2.0a5d8fa6.chunk.js",
-    "static/css/main.a691e3fb.chunk.css",
-    "static/js/main.8c40523c.chunk.js"
+    "static/css/main.13e57c6c.chunk.css",
+    "static/js/main.25b81537.chunk.js"
   ]
 }
